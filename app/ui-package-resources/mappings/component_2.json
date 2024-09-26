@@ -1,0 +1,6 @@
+{
+    "target": "Component2",
+    "package": "replace.with.your.package.name.component2",
+    "generateImplementation": true,
+    "generatePreviews": true
+}
